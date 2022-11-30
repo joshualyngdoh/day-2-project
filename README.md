@@ -1,4 +1,22 @@
 <a name="readme-top"></a>
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+After you're finished please remove all the comments and instructions!
+-->
 
 
 <div align="center">
@@ -68,5 +86,3 @@ gh repo clone joshualyngdoh/day-2-project
   - [Click on code in github, then go under githubcli, open github desktop and simply click on clone repository.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
