@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started">This project is a great way to introduce you to adding linter files</a>
 
 > Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
+Clone the repository.
 
 ### Prerequisites
 
