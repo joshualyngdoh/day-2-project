@@ -48,7 +48,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project">Day-2-Project</a>
 
-> Describe your project in 1 or 2 sentences.
 Hello-Microverse is a project to integrate linters into our HTML and CSS work files.
 
 ## 🛠 Built With <a name="built-with">VS code and Github</a>
@@ -165,7 +164,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-Github and Vs Code
+
 <!--
 Example:
 ```sh
