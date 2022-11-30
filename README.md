@@ -46,7 +46,7 @@ After you're finished please remove all the comments and instructions!
     - [
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project">Day-2-Project</a>
+# 📖 <a name="about-project">Day-2-Project</a>
 
 Hello-Microverse is a project to integrate linters into our HTML and CSS work files.
 
