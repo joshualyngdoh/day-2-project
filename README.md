@@ -98,7 +98,7 @@ Hello-Microverse is a project to integrate linters into our HTML and CSS work fi
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started">This project is a great way to introduce you to adding linter files</a>
+## 💻 <a name="getting-started">This project is a great way to introduce you to adding linter files</a>
 
 > Describe how a new developer could make use of your project.
 Clone the repository.
